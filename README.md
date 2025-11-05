@@ -20,16 +20,16 @@
 
 > **NetPort** 是一个开源、社区驱动的项目，旨在收集并分享可靠、高速、隐私友好的网络通道（俗称“机场”）。  
 >
-> **欢迎投稿好用的机场**
+> **欢迎投稿好用的机场，一起构建高质量节点导航。**
 
 ---
 
 ## 🌍 精选推荐
 
-| 名称                                                         | 类型   | 速度 | 稳定性 | 价格            | 说明                                |
-| ------------------------------------------------------------ | ------ | ---- | ------ | --------------- | ----------------------------------- |
-| 🌈 [性价比机场](https://www.xn--6nq44r2uh9rhj7f.com/#/register?code=SNiK0sA7) | 订阅制 | 🔥🔥🔥🔥 | 🟢🟢🟢🟢    | 1元40G/月       | 邀请码：SNiK0sA7                    |
-| 🛰️ [星链机场](https://xn--mes995ajya725k.xyz//#/register?code=6OVQmKFf) | 订阅制 | 🔥🔥🔥  | 🟢🟢🟢🟢    | 9.9一年每月300G | 邀请码：6OVQmKFf   优惠卷：rXRW47o8 |
+| 名称                                                         | 类型   | 速度 | 稳定性 | 价格              | 说明                                  |
+| ------------------------------------------------------------ | ------ | ---- | ------ | ----------------- | ------------------------------------- |
+| 🌈 [性价比机场](https://www.xn--6nq44r2uh9rhj7f.com/#/register?code=SNiK0sA7) | 订阅制 | 🔥🔥🔥🔥 | 🟢🟢🟢    | 1元40G/月         | 邀请码：`SNiK0sA7`                    |
+| 🛰️ [星链机场](https://xn--mes995ajya725k.xyz//#/register?code=6OVQmKFf) | 订阅制 | 🔥🔥🔥  | 🟢🟢🟢    | 9.9元/年 每月300G | 邀请码：`6OVQmKFf` 优惠券：`rXRW47o8` |
 
 ---
 
@@ -37,8 +37,29 @@
 
 | 工具名称         | 平台            | 简介                    | 链接                                             |
 | ---------------- | --------------- | ----------------------- | ------------------------------------------------ |
-| **Clash Verge** | Windows / macOS | 现代化 Clash 图形客户端 | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **Clash Verge**  | Windows / macOS | 现代化 Clash 图形客户端 | [GitHub](https://github.com/zzzgydi/clash-verge) |
 | **Shadowrocket** | iOS             | 轻量级代理工具          | [App Store](#)                                   |
 | **Quantumult X** | iOS             | 高级规则式网络客户端    | [App Store](#)                                   |
 
 ---
+
+## 📜 免责声明
+
+> - 本项目所有资源均来自互联网上 **公开信息**，仅供学习与研究用途。  
+> - 本项目 **不运营、不销售** 任何 VPN / 代理 / 节点服务。  
+> - 请用户根据 **当地法律法规** 合理使用网络资源。  
+> - 若发现内容存在侵权或不当，请通过 Issue 或 PR 反馈，我们将及时处理。
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Network-Freedom-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Stay-Secure-critical?style=for-the-badge">
+</p>
+
+
+<p align="center">
+  <sub>Made with ❤️ by NetPort Community</sub><br>
+  <sup>“连接，不应被阻隔。”</sup>
+</p>
+
