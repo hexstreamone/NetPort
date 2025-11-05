@@ -1,2 +1,44 @@
-# NetPort
-Sharing useful airports
+<h1 align="center">🌐 NetPort</h1>
+
+<p align="center">
+  <b>分享稳定好用的网络通道 —— 自由连接，无界探索。</b><br>
+  <sub>精选高质量机场推荐 / 科学上网工具导航 / 自由访问资源分享</sub>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/hexstreamone/NetPort/stargazers"><img src="https://img.shields.io/github/stars/hexstreamone/NetPort?color=ffcc00&style=for-the-badge"></a>
+  <a href="https://github.com/hexstreamone/NetPort/fork"><img src="https://img.shields.io/github/forks/hexstreamone/NetPort?color=66ccff&style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-活跃中-brightgreen?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"></a>
+</p>
+
+
+---
+
+## ✈️ 项目简介
+
+> **NetPort** 是一个开源、社区驱动的项目，旨在收集并分享可靠、高速、隐私友好的网络通道（俗称“机场”）。  
+>
+> **欢迎投稿好用的机场**
+
+---
+
+## 🌍 精选推荐
+
+| 名称                                                         | 类型   | 速度 | 稳定性 | 价格            | 说明                                |
+| ------------------------------------------------------------ | ------ | ---- | ------ | --------------- | ----------------------------------- |
+| 🌈 [性价比机场](https://www.xn--6nq44r2uh9rhj7f.com/#/register?code=SNiK0sA7) | 订阅制 | 🔥🔥🔥🔥 | 🟢🟢🟢🟢    | 1元40G/月       | 邀请码：SNiK0sA7                    |
+| 🛰️ [星链机场](https://xn--mes995ajya725k.xyz//#/register?code=6OVQmKFf) | 订阅制 | 🔥🔥🔥  | 🟢🟢🟢🟢    | 9.9一年每月300G | 邀请码：6OVQmKFf   优惠卷：rXRW47o8 |
+
+---
+
+## ⚙️ 常用客户端工具
+
+| 工具名称         | 平台            | 简介                    | 链接                                             |
+| ---------------- | --------------- | ----------------------- | ------------------------------------------------ |
+| **Clash Verge**  | Windows / macOS | 现代化 Clash 图形客户端 | [GitHub](https://github.com/zzzgydi/clash-verge) |
+| **Shadowrocket** | iOS             | 轻量级代理工具          | [App Store](#)                                   |
+| **Quantumult X** | iOS             | 高级规则式网络客户端    | [App Store](#)                                   |
+
+---
