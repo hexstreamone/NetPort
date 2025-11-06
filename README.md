@@ -43,6 +43,9 @@
 | **Shadowrocket** | iOS             | 轻量级代理工具          | [App Store](#)                                   |
 | **Quantumult X** | iOS             | 高级规则式网络客户端    | [App Store](#)                                   |
 | **clash mi** | Windows / macOS / Linux / iOS / Android | 简单好用 | [下载](https://clashmi.app/download/) |
+| **clash meta** | Android | 最好用的Android翻墙客户端 | [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid) |
+| **hiddify** | Windows / macOS / Linux / iOS / Android | 基于 Singbox 通用代理工具链的多平台代理客户端 | [GitHub](https://github.com/hiddify/hiddify-app/ClashMetaForAndroid) |
+| **NekoBox** | Android | 适用于 Android 的通用代理工具链 | [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
 
 ---
 
