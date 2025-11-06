@@ -37,9 +37,12 @@
 
 | 工具名称 | 平台 | 简介 | 链接 |
 |-----------|--------|-------|------|
-| **Clash Verge** | Windows / macOS | 现代化 Clash 图形客户端 | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **Clash Verge** | Windows / macOS / Linux | 现代化 Clash 图形客户端 | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **Clashparty** | Windows / macOS / Linux | 一个更易用的代理客户端 | [GitHub](https://github.com/mihomo-party-org/clash-party) |
+| **Karing** | Windows / macOS / Linux / iOS / Android | 一个更易用的代理客户端 | [下载](https://karing.app/download/) |
 | **Shadowrocket** | iOS             | 轻量级代理工具          | [App Store](#)                                   |
 | **Quantumult X** | iOS             | 高级规则式网络客户端    | [App Store](#)                                   |
+| **clash mi** | Windows / macOS / Linux / iOS / Android | 简单好用 | [下载](https://clashmi.app/download/) |
 
 ---
 
