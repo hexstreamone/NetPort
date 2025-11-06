@@ -40,8 +40,8 @@
 | **Clash Verge** | Windows / macOS / Linux | 现代化 Clash 图形客户端 | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
 | **Clashparty** | Windows / macOS / Linux | 一个更易用的代理客户端 | [GitHub](https://github.com/mihomo-party-org/clash-party) |
 | **Karing** | Windows / macOS / Linux / iOS / Android | 一个更易用的代理客户端 | [下载](https://karing.app/download/) |
-| **Shadowrocket** | iOS             | 轻量级代理工具          | [App Store](#)                                   |
-| **Quantumult X** | iOS             | 高级规则式网络客户端    | [App Store](#)                                   |
+| **Shadowrocket** | iOS / macOS / Apple TV | 轻量级代理工具          | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118)                                   |
+| **Quantumult X** | iOS / macOS / Apple TV | 高级规则式网络客户端    | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620)                                   |
 | **clash mi** | Windows / macOS / Linux / iOS / Android | 简单好用 | [下载](https://clashmi.app/download/) |
 | **clash meta** | Android | 最好用的Android翻墙客户端 | [GitHub](https://github.com/MetaCubeX/ClashMetaForAndroid) |
 | **hiddify** | Windows / macOS / Linux / iOS / Android | 基于 Singbox 通用代理工具链的多平台代理客户端 | [GitHub](https://github.com/hiddify/hiddify-app/ClashMetaForAndroid) |
