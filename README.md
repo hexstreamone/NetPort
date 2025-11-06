@@ -29,7 +29,7 @@
 | 名称 | 类型 | 速度 | 稳定性 | 价格 | 说明 |
 |------|------|--------|------------|--------|--------|
 | 🛰️ [星链机场](https://xn--mes995ajya725k.xyz//#/register?code=6OVQmKFf) | 订阅制 | 🔥🔥🔥 | 🟢🟢🟢 | 9.9一年每月300G | 邀请码：6OVQmKFf   优惠卷：rXRW47o8
-| 🐶 [狗子云](https://cn.gz-cloud.top/#/register?code=wgZZUkCn) | 订阅制 | 🔥🔥🔥 | 🟢🟢🟢 | 2.6元200G/月 | 邀请码：wgZZUkCn   优惠卷：rXRW47o8
+| 🐶 [狗子云](https://cn.gz-cloud.top/#/register?code=wgZZUkCn) | 订阅制 | 🔥🔥🔥 | 🟢🟢🟢 | 2.6元200G/月 | 邀请码：wgZZUkCn
 | 🌈 [性价比机场](https://www.xn--6nq44r2uh9rhj7f.com/#/register?code=SNiK0sA7) | 订阅制 | 🔥🔥🔥🔥 | 🟢🟢🟢 | 1元40G/月 | 邀请码：SNiK0sA7
 
 ---
